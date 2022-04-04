@@ -6,7 +6,7 @@ I am a **Full stack JS and Blockchain dApp developer**👨🏽‍💻 .  I'm als
 
 ## About me
 
-<img align='right' width='30%' src='https://media.giphy.com/media/kG6B7EcihfJN12CVSj/giphy.gif' alt='developer gif'>
+<img align='right' width='30%' height='200px' src='https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif' alt='developer gif'>
 
 * &nbsp;₿ &nbsp;Keeping up to date with Blockchain related things 
 * 🎤 Apart from coding, I like signing as a hobby, check it out <a href="https://open.spotify.com/artist/24VF8ThxeX8sA7Ble3ZHnq">here</a>!
