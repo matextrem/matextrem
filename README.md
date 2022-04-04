@@ -12,6 +12,7 @@ I am a **Full stack JS and Blockchain dApp developer**👨🏽‍💻 .  I'm als
 * 🎤 Apart from coding, I like signing as a hobby, check it out <a href="https://open.spotify.com/artist/24VF8ThxeX8sA7Ble3ZHnq">here</a>!
 * ⚽  I enjoy playing soccer
 * ✉️ <a href="mailto:matiasdastugue@gmail.com?subject=I%20came%20across%20your%20GitHub%20profile!">Contact me</a> asking for help or just to chat! :coffee:
+<br>
 
 ## Stats
 
