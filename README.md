@@ -6,13 +6,12 @@ I am a **Full stack JS and Blockchain dApp developer**👨🏽‍💻 .  I'm als
 
 ## About me
 
-<img align='right' width='30%' height='200px' src='https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif' alt='developer gif'>
+<img align='right' width='30%' height='150px' src='https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif' alt='developer gif'>
 
 * &nbsp;₿ &nbsp;Keeping up to date with Blockchain related things 
 * 🎤 Apart from coding, I like signing as a hobby, check it out <a href="https://open.spotify.com/artist/24VF8ThxeX8sA7Ble3ZHnq">here</a>!
 * ⚽  I enjoy playing soccer
 * ✉️ <a href="mailto:matiasdastugue@gmail.com?subject=I%20came%20across%20your%20GitHub%20profile!">Contact me</a> asking for help or just to chat! :coffee:
-<br />
 
 ## Stats
 
