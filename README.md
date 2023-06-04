@@ -1,6 +1,6 @@
 # Hi! I'm Mati 👋
 
-I am a **Full stack JS and Blockchain dApp developer**👨🏽‍💻 .  I'm also a Computer Engineering student who is passionate about Technology.
+I am a **Full stack JS and Blockchain dApp developer**👨🏽‍💻 .  I'm also a Software Engineer who is passionate about Technology.
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/matiasdastugue/im-a-cm-b.svg)](https://www.codementor.io/@matiasdastugue?refer=badge)
 
