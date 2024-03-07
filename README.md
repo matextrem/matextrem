@@ -47,8 +47,8 @@ I am a **Full stack JS and Blockchain dApp developer**👨🏽‍💻 .  I'm als
 
 
 ## Social
-<a href="https://twitter.com/matidastugue" target="_blank">
-  <img src="https://graffica.ams3.digitaloceanspaces.com/2023/07/rQYXqS5v-F1ySdm9WYAIbjHo-1024x1024.jpeg" width="60" alt="Follow me on X" title="Follow me on X">
+<a href="https://x.com/matidastugue" target="_blank">
+  <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.1395880969.1709769600&semt=ais" width="60" alt="Follow me on X" title="Follow me on X">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/matiasdastugue" target="_blank">
