@@ -1,6 +1,6 @@
 <div id="header">
   <h1>Hi! I'm Mati 👋
-    <img src="https://komarev.com/ghpvc/?username=matextrem&style=for-the-badge&color=1565c0&abbreviated=true" alt="" align="right"/>
+    <img src="https://komarev.com/ghpvc/?username=matextrem&style=for-the-badge&color=1565c0&abbreviated=true" alt="Profile views" align="right"/>
   </h1>
 </div>
 
@@ -19,7 +19,7 @@ I am a **Full stack JS and Blockchain dApp developer**👨🏽‍💻 .  I'm als
 
 ## Stats
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=matextrem&hide=stars&show_icons=true&theme=tokyonight">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=matextrem&hide=stars&show_icons=true&theme=tokyonight">
   <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matextrem&layout=compact&theme=tokyonight&langs_count=6">
 </p>
 
