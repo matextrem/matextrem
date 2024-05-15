@@ -1,9 +1,12 @@
-# Hi! I'm Mati 👋
+<div id="header">
+  <h1>Hi! I'm Mati 👋
+    <img src="https://komarev.com/ghpvc/?username=matextrem&style=for-the-badge&color=1565c0&abbreviated=true" alt="" align="right"/>
+  </h1>
+</div>
 
 I am a **Full stack JS and Blockchain dApp developer**👨🏽‍💻 .  I'm also a Software Engineer who is passionate about Technology.
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/matiasdastugue/im-a-cm-b.svg)](https://www.codementor.io/@matiasdastugue?refer=badge)
-
 ## About me
 
 <img align='right' width='30%' height='150px' src='https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif' alt='developer gif'>
@@ -15,9 +18,18 @@ I am a **Full stack JS and Blockchain dApp developer**👨🏽‍💻 .  I'm als
 <br>
 
 ## Stats
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=matextrem&hide=stars&show_icons=true&theme=tokyonight">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matextrem&layout=compact&theme=tokyonight&langs_count=6">
+</p>
 
-![Matextrem's GitHub stats](https://github-readme-stats.vercel.app/api?username=matextrem&hide=stars&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matextrem&layout=compact&theme=tokyonight&langs_count=6)
+---
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=matextrem&theme=tokyonight&card_width=800" alt="GitHub Streak">
+</p>
+
+---
 
 ## Contributions
 
