@@ -20,7 +20,7 @@ I am a **Full stack JS and Blockchain dApp developer**👨🏽‍💻 .  I'm als
 ## Stats
 <p align="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=matextrem&hide=stars&show_icons=true&theme=tokyonight">
-  <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matextrem&layout=compact&theme=tokyonight&langs_count=6">
+  <img width="265" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matextrem&layout=compact&theme=tokyonight&langs_count=6">
 </p>
 
 ---
